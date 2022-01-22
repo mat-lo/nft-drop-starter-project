@@ -1,0 +1,19 @@
+{
+  "name": "Basilico",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "55o8KwmeGGNtPhhbb3qC6JCusPpHp7Pn5pg67gQAwaTd",
+        "share": 100
+      }
+    ]
+  }
+}
